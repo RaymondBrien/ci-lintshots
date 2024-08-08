@@ -1,6 +1,6 @@
 # Lintshots
 
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/RaymondBrien/ci-lintshots)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/RaymondBrien/ci-lintshots)
 
 
 Lintshots is a simple automation tool to put all your python files in a repository
