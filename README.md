@@ -29,6 +29,21 @@ locally as a `.png` on your machine for documentation.
     https://github.com/GoogleChromeLabs/chrome-for-testing#other-api-endpoints
 
 
+2. **Clone repository**
+
+    ```sh
+    git clone https://github.com/RaymondBrien/theoryhub
+    ```
+
+    If you'd like to contribute to the project, please follow these steps:
+
+    Fork the repository.
+    Create a new branch for your feature or bug fix.
+    Make your changes and commit them with descriptive commit messages.
+    Push your changes to your forked repository.
+    Submit a pull request to the main repository.
+
+
 2. **Set Up Virtual Environment and Install Dependencies**:
     ```sh
     python3 -m venv .venv
