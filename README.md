@@ -79,7 +79,12 @@ x. **Optional: Customize Linting Delay**:
      - Change delay length between opening each Python file and taking the screenshot as needed for slower internet connections or for quicker results if you need. Modify the `LINTING_DELAY` variable in the `screenshots.py` file.
 
 
-## Requirements breakdown:
+### Further Reading:
+- [Selenium GitHub](https://github.com/SeleniumHQ/selenium)
+- [Selenium Python Documentation](https://selenium-python.readthedocs.io/installation.html#drivers)
+- [Browserstack - Uses for Selenium](https://www.browserstack.com/selenium#:~:text=Selenium%20is%20an%20open%2Dsource,functions%20consistently%20across%20different%20browsers)
+- [Browserstack - Cross Browser Testing in Selenium](https://www.browserstack.com/guide/cross-browser-testing-in-selenium)
+#### Requirements breakdown:
 
 <details>
 <summary>Click to open</summary>
